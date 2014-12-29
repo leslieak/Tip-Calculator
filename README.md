@@ -13,3 +13,5 @@ I had never worked with Xcode before, and found it to be pretty fun and intuitiv
 
 I spent some time adjusting the layout, giving it a background, an icon and adding custom fonts.
 
+![GIF walkthrough](https://github.com/leslieak/Tip-Calculator/blob/master/Tip-calculator.gif)
+
